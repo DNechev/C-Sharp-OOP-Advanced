@@ -1,0 +1,21 @@
+C:\Users\dido9\Desktop\ExPrep4\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.deps.json
+C:\Users\dido9\Desktop\ExPrep4\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.json
+C:\Users\dido9\Desktop\ExPrep4\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\ExPrep4\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.dll
+C:\Users\dido9\Desktop\ExPrep4\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.pdb
+C:\Users\dido9\Desktop\ExPrep4\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\ExPrep4\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\ExPrep4\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\ExPrep4\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfo.cs
+C:\Users\dido9\Desktop\ExPrep4\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.dll
+C:\Users\dido9\Desktop\ExPrep4\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.pdb
+C:\Users\dido9\Desktop\ExPrep4 My Solution\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.deps.json
+C:\Users\dido9\Desktop\ExPrep4 My Solution\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.json
+C:\Users\dido9\Desktop\ExPrep4 My Solution\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\ExPrep4 My Solution\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.dll
+C:\Users\dido9\Desktop\ExPrep4 My Solution\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.pdb
+C:\Users\dido9\Desktop\ExPrep4 My Solution\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\ExPrep4 My Solution\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\ExPrep4 My Solution\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfo.cs
+C:\Users\dido9\Desktop\ExPrep4 My Solution\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.dll
+C:\Users\dido9\Desktop\ExPrep4 My Solution\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.pdb

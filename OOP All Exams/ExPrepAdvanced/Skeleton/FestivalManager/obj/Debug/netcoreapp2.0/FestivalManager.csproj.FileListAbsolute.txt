@@ -1,0 +1,10 @@
+C:\Users\dido9\Desktop\ExPrepAdvanced\Skeleton\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\ExPrepAdvanced\Skeleton\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\ExPrepAdvanced\Skeleton\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfo.cs
+C:\Users\dido9\Desktop\ExPrepAdvanced\Skeleton\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.deps.json
+C:\Users\dido9\Desktop\ExPrepAdvanced\Skeleton\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.json
+C:\Users\dido9\Desktop\ExPrepAdvanced\Skeleton\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\ExPrepAdvanced\Skeleton\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.dll
+C:\Users\dido9\Desktop\ExPrepAdvanced\Skeleton\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.pdb
+C:\Users\dido9\Desktop\ExPrepAdvanced\Skeleton\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.dll
+C:\Users\dido9\Desktop\ExPrepAdvanced\Skeleton\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.pdb

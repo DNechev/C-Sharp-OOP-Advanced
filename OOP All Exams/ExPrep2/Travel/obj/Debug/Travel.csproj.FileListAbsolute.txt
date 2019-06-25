@@ -1,0 +1,7 @@
+C:\Users\dido9\Desktop\ExPrep2\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\ExPrep2\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\ExPrep2\Travel\bin\Debug\Travel.exe.config
+C:\Users\dido9\Desktop\ExPrep2\Travel\bin\Debug\Travel.exe
+C:\Users\dido9\Desktop\ExPrep2\Travel\bin\Debug\Travel.pdb
+C:\Users\dido9\Desktop\ExPrep2\Travel\obj\Debug\Travel.exe
+C:\Users\dido9\Desktop\ExPrep2\Travel\obj\Debug\Travel.pdb
